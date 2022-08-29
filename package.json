@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker-12-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teshome28sara/Employee-tracker-12-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teshome28sara/Employee-tracker-12-mysql/issues"
+  },
+  "homepage": "https://github.com/teshome28sara/Employee-tracker-12-mysql#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.1",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1"
+  }
+}
